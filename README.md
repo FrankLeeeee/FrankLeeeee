@@ -22,19 +22,19 @@ personal website: https://frankleeeee.github.io
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hpcaitech&repo=colossalai" alt="colossalai">
 </a>
 
-&nbsp;<br/>  
+&nbsp;
 
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=frankleeeee&repo=omniviewer">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frankleeeee&repo=omniviewer" alt="omniviewer">
 </a>
 
-&nbsp;<br/>  
+&nbsp;
 
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=frankleeeee&repo=hexgem">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frankleeeee&repo=hexgem" alt="hexgem">
 </a>
 
-&nbsp;<br/>  
+&nbsp;
 
 <a href="https://github-readme-stats.vercel.app/api/pin/?username=nus-hpc-ai-lab&repo=oh-my-server">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nus-hpc-ai-lab&repo=oh-my-server" alt="oh-my-server">
