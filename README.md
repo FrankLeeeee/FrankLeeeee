@@ -1,6 +1,6 @@
 Hi, this Frank Lee (Shenggui Li)! 👋
 
-personal website: https://frankleeeee.github.io
+personal website: https://franklee.xyz/
 
 **About Me**
 
